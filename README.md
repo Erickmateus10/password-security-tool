@@ -77,9 +77,9 @@ python password_checker.py --senha "sua_senha_aqui"
 
 ```
 password-security-tool/
-├── 📄 password_checker.py    # Código principal
-├── 📄 requirements.txt       # Dependências
-└── 📄 README.md             # Documentação
+├── 📄 password_checker.py   
+├── 📄 requirements.txt      
+└── 📄 README.md            
 ```
 
 ## Aviso de Segurança
@@ -89,10 +89,7 @@ Esta ferramenta é para **fins educacionais e de conscientização**.
 - A ferramenta é segura (usa hashing), mas sempre tenha cautela
 - Use senhas diferentes para cada serviço
 - Considere usar um gerenciador de senhas
-
-## Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+  
 
 ## Autor
 
